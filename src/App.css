@@ -1,0 +1,42 @@
+.App {
+  position: absolute;
+  left:18%;
+  margin-top: 3em;
+}
+.data_bar{
+  width: 14px;
+  display: inline-block;
+  margin-left: 2px;
+}
+.data_bar_purple{
+  background-color: purple;
+}
+.data_bar_green{
+  background-color: lightblue;
+}
+.data_bar_red{
+  background-color: red;
+}
+.gen_new_array,.merge_sort{
+  padding: 1em;
+  margin-bottom: 2em;
+  border-radius: 40px;
+  font-weight: 600;
+}
+.gen_new_array{
+  background-color: black;
+  color:white;
+}
+
+.mergersort{
+  float: right!important;
+  margin-top:-5.6em;
+  margin-right:15%;
+}
+.radix{
+  float: right!important;
+  margin-top:-5.6em;
+}
+.shift_left{
+  margin-left:7em;
+}
