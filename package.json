@@ -11,6 +11,8 @@
     "react-scripts": "3.4.1"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -19,7 +21,7 @@
   "eslintConfig": {
     "extends": "react-app"
   },
-  "homepage": ".",
+  "homepage": "https://github.com/aniketmahajan007/Sort_Visualize.git/",
   "browserslist": {
     "production": [
       ">0.2%",
