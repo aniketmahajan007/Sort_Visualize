@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/aniketmahajan007/Sort_Visualize.git/static/css/main.6b39ec01.chunk.css",
+    "main.js": "/aniketmahajan007/Sort_Visualize.git/static/js/main.6a0d24b3.chunk.js",
+    "main.js.map": "/aniketmahajan007/Sort_Visualize.git/static/js/main.6a0d24b3.chunk.js.map",
+    "runtime-main.js": "/aniketmahajan007/Sort_Visualize.git/static/js/runtime-main.ee3c1775.js",
+    "runtime-main.js.map": "/aniketmahajan007/Sort_Visualize.git/static/js/runtime-main.ee3c1775.js.map",
+    "static/js/2.2b5dbeed.chunk.js": "/aniketmahajan007/Sort_Visualize.git/static/js/2.2b5dbeed.chunk.js",
+    "static/js/2.2b5dbeed.chunk.js.map": "/aniketmahajan007/Sort_Visualize.git/static/js/2.2b5dbeed.chunk.js.map",
+    "index.html": "/aniketmahajan007/Sort_Visualize.git/index.html",
+    "precache-manifest.fb074f7d47712322c4663e716945ae40.js": "/aniketmahajan007/Sort_Visualize.git/precache-manifest.fb074f7d47712322c4663e716945ae40.js",
+    "service-worker.js": "/aniketmahajan007/Sort_Visualize.git/service-worker.js",
+    "static/css/main.6b39ec01.chunk.css.map": "/aniketmahajan007/Sort_Visualize.git/static/css/main.6b39ec01.chunk.css.map",
+    "static/js/2.2b5dbeed.chunk.js.LICENSE.txt": "/aniketmahajan007/Sort_Visualize.git/static/js/2.2b5dbeed.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee3c1775.js",
+    "static/js/2.2b5dbeed.chunk.js",
+    "static/css/main.6b39ec01.chunk.css",
+    "static/js/main.6a0d24b3.chunk.js"
+  ]
+}
