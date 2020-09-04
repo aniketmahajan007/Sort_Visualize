@@ -4,8 +4,6 @@ Visualize in action,
 how sorting is perform on random number of arrays.
 Currently Features: ( Bubble Sort , Selection Sort, Quick Sort )
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Available Scripts
 
 In the project directory, you can run:
